@@ -1,0 +1,19 @@
+
+............1. Pre-Requisites................
+
+1. VSCode - https://code.visualstudio.com/download
+2. Install Python ---> Recommended: 3.11.9 (3.10 to 3.13) - https://www.python.org/downloads/
+3. Install AWS CLI --- > https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+4. Setup IAM Role for AWS CLI
+5. Optional Step - Download C++ compiler for VSCode ---- > https://code.visualstudio.com/docs/cpp/config-mingw
+....................................................................
+
+......2. CrewAI Installation---> https://docs.crewai.com/installation................
+pip install uv
+uv --version
+uv tool install crewai
+uv tool list
+uv tool update-shell (One time to set the path)
+.......................................................................
+
+
