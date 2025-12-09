@@ -7,6 +7,7 @@
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
 
 > Agentic AI
+* [Ed Donnor](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
 * [Github - Agentic AI - Ed Donner](https://github.com/ed-donner/agents)
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
 
@@ -16,3 +17,4 @@
 
 ### `Readings`
 * [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+* [Claude - Cookbook](https://github.com/anthropics/claude-cookbooks/blob/main/patterns/agents/basic_workflows.ipynb)
