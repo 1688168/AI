@@ -3,3 +3,7 @@
 ### Resources
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
 * [Claude - Cookbook](https://github.com/anthropics/claude-cookbooks/blob/main/patterns/agents/basic_workflows.ipynb)
+* [ollama](https://ollama.com/)
+
+### Environments
+* Setup Ollama

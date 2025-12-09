@@ -4,8 +4,8 @@
 
 * [Claude - Agent Cookbook](https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents)
 * [Claude - Python SDK](https://platform.claude.com/docs/en/agent-sdk/python)
-* [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
-
+* [Streamlit - Gallary](https://streamlit.io/gallery?category=llms)
+* [ollama](https://ollama.com/)
 > Agentic AI
 * [Ed Donnor](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
 * [Github - Agentic AI - Ed Donner](https://github.com/ed-donner/agents)
@@ -17,4 +17,4 @@
 
 ### `Readings`
 * [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
-* [Claude - Cookbook](https://github.com/anthropics/claude-cookbooks/blob/main/patterns/agents/basic_workflows.ipynb)
+
