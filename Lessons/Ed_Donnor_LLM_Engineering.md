@@ -9,6 +9,9 @@
 
 ### Environments
 * Setup Ollama
+* UV
+  * uv self update #to update uv
+  * uv sync #this is like pip install -r requirements.txt
 
 ### Play with Ollama
 * ollama
