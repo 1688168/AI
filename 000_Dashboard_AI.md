@@ -10,7 +10,7 @@
 * [Ed Donnor](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
 * [Github - Agentic AI - Ed Donner](https://github.com/ed-donner/agents)
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
-
+* [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard?utm_source=direct&utm_medium=none)
 > AI A-Z codes
 [AI A-Z](https://drive.google.com/drive/folders/15dfDBwqC-3mMw6luTz11V00SBggDVQPH)
 
