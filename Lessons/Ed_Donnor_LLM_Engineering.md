@@ -17,4 +17,7 @@
 * ollama
 * ollama serve
 * ollama run gemma3:270m #how to run an open source. model locally?
+* ollama pull <model_name>
+* ollama ls # list all tghe models you have downloaded
+* ollama rm <model_name>
 * CTRL+D # to end the gemma session
