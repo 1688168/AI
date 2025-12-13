@@ -21,3 +21,24 @@
 * ollama ls # list all tghe models you have downloaded
 * ollama rm <model_name>
 * CTRL+D # to end the gemma session
+
+## Lectures
+## Sec1: chat completion API
+
+### Sec1/Day1
+* how to add virtual env to vscode search path?
+  * go to settings->vscode setting->search venv->add the path to search list
+* how to make API call to OpenAI
+### Sec1/Day2
+* how to use openAI SDK interface call diff LLM providers
+* How to call LLM via OLLOMA locally
+
+### SEC1/Day3: LLMs in 3 Flavors
+* Base Model -> predict next token - train new skill
+* Chat/Instruct-(assistant prompt/user prompt) - better for interactive use cases
+* Reasoning/Thinking: chain-of-thought prompting: (think step-by-step to force GPT perform better)
+  * reasoning budget. (budget forcing ---- adding wait). always better on puzzle
+* Hybrid
+
+
+

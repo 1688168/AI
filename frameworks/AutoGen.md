@@ -10,7 +10,7 @@
 * Studio: low-code/no code app
 * Magentic One CLI: like KIRO-CLI
 
-### Models
+### Models - API wrap around calling LLM
 * LLM
 ### Messages
 * Messages between agents
