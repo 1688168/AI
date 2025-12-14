@@ -8,6 +8,7 @@
 * [ollama](https://ollama.com/)
 > Agentic AI
 * [Ed Donnor](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
+* [Ed Donnor - Out smart](https://github.com/ed-donner/outsmart)
 * [Github - Agentic AI - Ed Donner](https://github.com/ed-donner/agents)
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
 * [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard?utm_source=direct&utm_medium=none)
