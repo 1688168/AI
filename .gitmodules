@@ -1,0 +1,3 @@
+[submodule "outsmart"]
+	path = outsmart
+	url = ./outsmart
