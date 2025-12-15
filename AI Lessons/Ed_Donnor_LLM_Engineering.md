@@ -42,3 +42,11 @@
 
 
 
+### RAG
+* use blob load read all pdf. parse file name as key into text of pdf body as content as simple memory lookup. append to context to LLM
+* Fake RAG cannot handle fuzzy matching. The matched key might not relevent in the context. different ppl might have same last name.  So using only last name as key look up content actual is misleading.
+
+> `Vector`
+* two flavors of LLM: 
+  * auto-regressive LLM predict a future token from the past
+  * auto-encoding LLM produce output based on the full input (classification. sentiment analysis, calculate "Vector Embeddings")
