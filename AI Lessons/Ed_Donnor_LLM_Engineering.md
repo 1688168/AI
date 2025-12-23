@@ -46,7 +46,21 @@
 * use blob load read all pdf. parse file name as key into text of pdf body as content as simple memory lookup. append to context to LLM
 * Fake RAG cannot handle fuzzy matching. The matched key might not relevent in the context. different ppl might have same last name.  So using only last name as key look up content actual is misleading.
 
-> `Vector`
+### `Vector`
 * two flavors of LLM: 
   * auto-regressive LLM predict a future token from the past
   * auto-encoding LLM produce output based on the full input (classification. sentiment analysis, calculate "Vector Embeddings")
+
+### Fine-Tuning frontier model
+* Generalization: The ability of a model to make good predictions on unseen data
+* Transfer Learning (Fine-Tune)
+
+### Capstone project
+> Price prediction
+* Regression model (traditional form of AI)
+
+### Parameters (Training)
+* forward pass: raw data -> predict
+* Loss: how far off was it
+* Backward pass: wiggle the parameters
+* Optimization: take a step in the right direction
