@@ -62,5 +62,5 @@
 ### Parameters (Training)
 * forward pass: raw data -> predict
 * Loss: how far off was it
-* Backward pass: wiggle the parameters
+* Backward pass: wiggle the parameters (backpropagation, backprop)
 * Optimization: take a step in the right direction
