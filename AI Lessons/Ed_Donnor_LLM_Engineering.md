@@ -40,7 +40,10 @@
   * reasoning budget. (budget forcing ---- adding wait). always better on puzzle
 * Hybrid
 
-
+### SEC1/Day4
+* convert words to toekn and decode
+* illusion of "memory": always pass the whole convo history to the chat for memory
+* multi-shot prompt
 
 ### RAG
 * use blob load read all pdf. parse file name as key into text of pdf body as content as simple memory lookup. append to context to LLM
