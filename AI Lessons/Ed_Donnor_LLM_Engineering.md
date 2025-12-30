@@ -74,5 +74,3 @@ ex:
 * Optimization: take a step in the right direction
 
 ### Huggingface
-* tokenName=p20251228
-* token=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
