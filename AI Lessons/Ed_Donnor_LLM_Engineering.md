@@ -22,6 +22,11 @@
 * ollama rm <model_name>
 * CTRL+D # to end the gemma session
 
+ex:
+- !ollama serve
+- !ollama pull llama3.2
+- !ollama pull gpt-oss:20b
+
 ## Lectures
 ## Sec1: chat completion API
 
@@ -67,3 +72,7 @@
 * Loss: how far off was it
 * Backward pass: wiggle the parameters (backpropagation, backprop)
 * Optimization: take a step in the right direction
+
+### Huggingface
+* tokenName=p20251228
+* token=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
