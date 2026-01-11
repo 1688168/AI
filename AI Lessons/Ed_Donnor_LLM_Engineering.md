@@ -74,3 +74,13 @@ ex:
 * Optimization: take a step in the right direction
 
 ### Huggingface
+* tokenizers
+
+## How to use open source models in huggingface?
+### Huggingface open source models
+* Quantization:
+  * reduce parameters precision to 8 bits, or 4 bits.  reduce memory footprint
+  * degrades the quality of the neuro-network, but not that much.  The result is still working
+  * reduce memory, but reduce performace down a little.
+  * NF4
+* 
