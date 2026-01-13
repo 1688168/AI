@@ -14,6 +14,7 @@
   * king - men + women -> queen
   * paris - france + England -> London
   * cosin similarity
+  * sementic search
 
 > `How vector represent meaning?`
 * could have thousands of dimensions
@@ -27,5 +28,22 @@
   * find all similar vector around vector -> vector store?  all the information near the input? -> those are the fuzzy look up -> additional context appended
   * encoder LLM has nothing to do with LLM. encoder LLM is just used to look upl vector store.
   * finding relevant content.  contents of similar meaning
-### build a DB
-### build a vector
+
+
+## LangChain, Vectors, Chroma
+* 2025 Oct V1 ( original Oct 2022)
+> pros & Cons
+** pros **
+* faster time to market
+* common in enterprise. good resume material
+** cons **
+* all the provider has openAI API. less need for this abstraction layer
+* light weight, now is heavy weight
+* learning curve
+* it has it's own language
+* liteLLM now is available
+
+> langGraph VS LangChain
+
+
+
