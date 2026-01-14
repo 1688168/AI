@@ -44,6 +44,6 @@
 * liteLLM now is available
 
 > langGraph VS LangChain
-
-
-
+> vector database: Chroma (vector was created by encoder LLM)
+* it matters more on accuracy on encoder (the energy should focus on this)
+* vectorstores are mainly infra or cost concerns
