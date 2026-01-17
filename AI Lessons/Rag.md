@@ -47,3 +47,16 @@
 > vector database: Chroma (vector was created by encoder LLM)
 * it matters more on accuracy on encoder (the energy should focus on this)
 * vectorstores are mainly infra or cost concerns
+
+
+## 10 RAG Advanced Techniques
+* Chunking R&D
+* Encoder R&D
+* Improve Prompts
+* Document pre-processing, convert the original document be more vector friendly before convert
+* Query rewriting: rewrite the query so it can be more RAG friendly before submitting to LLM
+* Query expansion: use LLM to turn the questions into multiple RAG query
+* Re-ranking: use an LLM to sub-select from RAG results
+* Hierarchical: use an LLM to summarize at multiple levels
+* Graph RAG: retrieve content closely related to similar documents
+* Agentic RAG: use Agents for retrieval, combining with memory and tools such as SQL
