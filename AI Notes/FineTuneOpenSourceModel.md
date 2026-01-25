@@ -22,3 +22,25 @@
 * technical note 1: 4 bits are interpreted as float, not int
 * technical note 2: the adaptor matrices are still 32 bit
 * we Quantizing the base model, not LoRA metrics
+
+## Hyper-parameters
+> `5 important hyper-parameters for QLoRA`
+1. Target modules: which layer to garet (attention)
+2. R (Rank, dimension)
+3. Alpha (after multiply A,B add to base model)
+4. Quantization (reduce precision)
+5. Dropout
+
+> `5 Important Hyper-parameters for Training`
+1. Epochs (front to back run)
+2. Batch Size (num of data points per run - power of 2)
+3. Learning Rate (why you don't like learning rate too big - avoid swing to wide)
+   1. learning rate scheduler
+4. Gradient accumulation
+5. Optimizer
+
+> `4 Steps of Training`: Tweaking the parameters of a model based on a training data
+1. Forward Pass -> predict the output given inputs
+2. Loass Calculation -> How different was the prediction to the ground truth
+3. Backward pass -> How should we tweak parameters to do better next time (the "gradients")
+4. Optimization -> Update parameters a tiny step to do better next time
