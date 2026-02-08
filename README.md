@@ -3,6 +3,7 @@
 > Agentic AI
 * [Github - Agentic AI - Ed Donner](https://github.com/ed-donner/agents)
 * [Github - Ed Donner - LLM Engineering](https://github.com/ed-donner/llm_engineering)
+* [Github - LangChain](https://github.com/ttaulli/LangChain-Course)
 
 > AI A-Z codes
 [AI A-Z](https://drive.google.com/drive/folders/15dfDBwqC-3mMw6luTz11V00SBggDVQPH)

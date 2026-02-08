@@ -19,3 +19,16 @@
 * LangGraph (Framework) --- Crew AI
 * LangGraph Studio (visual builder)
 * LangGraph platform (Hosted solution)
+
+> components of LangGraph
+* Agent workflows
+* State - current snapshot
+* Node - python functions - do something on state - return new state - task
+* Edges - connections connect the node - also python functions - what's the next task
+
+> 5 steps to the first graph
+* define the state class
+* start the graph builder
+* create a node
+* create edges
+* compile the graph
