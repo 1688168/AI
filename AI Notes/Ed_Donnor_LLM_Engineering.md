@@ -83,4 +83,17 @@ ex:
   * degrades the quality of the neuro-network, but not that much.  The result is still working
   * reduce memory, but reduce performace down a little.
   * NF4
-* 
+
+## Notes
+* Over fitting
+
+
+
+## Buyild Autonomous multi agent system
+### Definitions of Agents
+> `AI Systems that can do work for you independently`.   
+> `AI System s Where an LLM controls the  workflow`.   
+> `An Agnet runs Tools in a Loop to achieve a goal`
+
+## Agent Architecture
+* [Modal.com](modal.com)

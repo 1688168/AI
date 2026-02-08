@@ -13,3 +13,9 @@
 3. Parallelization
 4. Orchestrator-worker
 5. Evaluator-Optimizer
+
+## LangChain VS LangGraph
+## LangGraph
+* LangGraph (Framework) --- Crew AI
+* LangGraph Studio (visual builder)
+* LangGraph platform (Hosted solution)
