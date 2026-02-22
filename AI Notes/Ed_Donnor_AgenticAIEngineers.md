@@ -22,7 +22,7 @@
 
 > components of LangGraph
 * Agent workflows
-* State - current snapshot
+* State - current snapshot - immutable
 * Node - python functions - do something on state - return new state - task
 * Edges - connections connect the node - also python functions - what's the next task
 
@@ -32,3 +32,13 @@
 * create a node
 * create edges
 * compile the graph
+
+> Reducer
+* each field in the state can be specified with a function --- reducer
+* when you return a new state, LangGraph uses the reducer to combine this field with existing State.  This enables LangGraph to run multiple nodes concurrently and combine State without overwriting
+
+> `Super Step`
+* each invokation to the graph is a super step
+
+> `Lang Smith`
+* create account

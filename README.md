@@ -9,3 +9,4 @@
 [AI A-Z](https://drive.google.com/drive/folders/15dfDBwqC-3mMw6luTz11V00SBggDVQPH)
 
 * [Anthropic - building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+* [Anthropic courses](https://anthropic.skilljar.com/)
